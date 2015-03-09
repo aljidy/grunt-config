@@ -11,7 +11,7 @@
 </script>
              
 
-<div class='custWrapper'>
+<div class='cust-wrapper'>
 </div>
 
 <?php include './custom-page-foot.php'; ?>
