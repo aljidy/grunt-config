@@ -11,10 +11,7 @@
 </script>
              
 
-<div class='cust-wrapper'>
-</div>
+<section class='cust-wrapper'>
+</section>
 
-<?php include './custom-page-foot.php'; ?>
-
-
-                
+<?php include './custom-page-foot.php'; ?>               
