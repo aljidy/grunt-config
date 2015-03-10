@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Just my defualt grunt config",
   "main": "GruntFile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Adam Al-Jidy",
   "license": "ISC",
   "dependencies": {
