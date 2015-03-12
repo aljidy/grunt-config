@@ -29,7 +29,7 @@ module.exports = function(grunt) {
           'tidy.css': ['*.php']
         }
       }
-    }
+    },
     
     watch: {
       css: {
@@ -41,10 +41,11 @@ module.exports = function(grunt) {
       }
     }
   });
+  
   grunt.loadNpmTasks('grunt-contrib-sass');
   //grunt.loadNpmTasks('grunt-uncss');
-  grunt.loadNpmTasks('grunt-contrib-watch')
+  grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-compass');
-;
+
   grunt.registerTask('default',['compass']);
-}
+};
